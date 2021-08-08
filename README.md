@@ -5,6 +5,9 @@ Hi! I am glad to share with you guys, a cryptocurrency that i built using sha256
 
 To run the project ->
 
-1.)Clone the project from github 2.)Open terminal/cmd change the directory to the project folder 3.)execute the command => "python app.py" 4.)Enter The server address obtained in the terminal/cmd on the browser
+1.)Clone the project from github 
+2.)Open terminal/cmd change the directory to the project folder 
+3.)execute the command => "python app.py" 
+4.)Enter The server address obtained in the terminal/cmd on the browser
 
 Cheers!
